@@ -1,0 +1,27 @@
+.tweet-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .username {
+    font-weight: bold;
+    color: blue;
+  }
+  
+  .name {
+    margin-top: 5px;
+  }
+  
+  .date {
+    color: gray;
+    margin-top: 5px;
+  }
+  
+  .message {
+    margin-top: 10px;
+  }
+  
